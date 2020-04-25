@@ -1,5 +1,4 @@
 #!/bin/bash
-#GPLv3
 
 date=`date +%Y-%m-%H:%m`
 
