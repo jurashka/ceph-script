@@ -1,0 +1,6 @@
+ceph_hung_osd_restart.sh    -   sometimes Ceph osd hangs with message
+                                "72 slow ops, oldest one blocked for 543 sec, daemons [osd.66,osd.69] have slow ops." 
+                                script finds out and restarts this osd
+
+#GPLv3
+
